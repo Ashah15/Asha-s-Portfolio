@@ -9,7 +9,7 @@ This is a layout of my personal portfolio
 ~JAVASCRIPT.
 `
 ## Live Demo
-[Click Here](file:///home/asha/Desktop/Asha-s-Portfolio/index.html)
+[Click Here](https://ashah15.github.io/Asha-s-Portfolio/)
 
 ## Author
 👤 Asha
