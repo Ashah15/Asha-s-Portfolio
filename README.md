@@ -1,6 +1,6 @@
 # Asha's Portfolio
 
-This is a layout of my personal portfolio
+This is a layout of my personal portfolio that displays the projects done and coding languages and skills gained in my journey.
 
 ## Built With
 `
